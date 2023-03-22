@@ -19,7 +19,9 @@ Pathfinding algorithm calculating traffic:
 
 <br>
 <br>
+
 Highway system:
+
 <br>
 <br>
 ![hi1](https://imgur.com/96TWgog.jpeg)
@@ -27,7 +29,6 @@ Highway system:
 ![hi2](https://imgur.com/0gGBEoW.jpeg)
 <br>
 ![hi3](https://imgur.com/k1CRUFy.jpeg)
-
 <br>
 <br>
 
